@@ -1,6 +1,6 @@
 # Object-Tracker
 ## USAGE
-### python `track.py --video video/video.mp4`
+### `python track.py --video video/video.mp4`
 ## Steps:-
    + defined the upper and lower boundaries for a color to be considered "blue".
    + load the video.
