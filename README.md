@@ -1,4 +1,4 @@
-# Object-Tracker
+# Object-Tracking by thresholding
 ## USAGE
 ### `python track.py --video video/video.mp4`
 ## Steps:-
